@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Vassiliou — Visual Artist Portfolio & Proposal",
+  "description": "Σύγχρονο, minimal portfolio εικαστικού καλλιτέχνη με παρουσίαση έργων, βίντεο, βιογραφικό, mobile design και διαδραστικό demo διαχείρισης περιεχομένου.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
